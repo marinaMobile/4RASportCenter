@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22871669129",
+    "project_id": "rasport-center",
+    "storage_bucket": "rasport-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22871669129:android:3c8da6ce5d421fff9d0958",
+        "android_client_info": {
+          "package_name": "com.sportcenter.a4rasportcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22871669129-54tgluv7sga5bgft4950o2eoetfg58nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqsNiZ3LDJqIUlAirWYLz46hns1Yibibc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22871669129-54tgluv7sga5bgft4950o2eoetfg58nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

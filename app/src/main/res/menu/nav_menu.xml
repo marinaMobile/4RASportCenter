@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/user_news"
+        android:title="Posts"
+        android:icon="@drawable/ic_baseline_attractions_24"/>
+
+    <item
+        android:id="@+id/user"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_24"/>
+
+    <item
+        android:id="@+id/post"
+        android:title="New post"
+        android:icon="@drawable/ic_baseline_message_24"/>
+
+    <item
+        android:id="@+id/sign_out"
+        android:title="Sign out"
+        android:icon="@drawable/ic_baseline_follow_the_signs_out_24"/>
+
+
+</menu>
